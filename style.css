@@ -1,0 +1,31 @@
+html {
+  font-family: sans-serif;
+  user-select: none;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  height: calc(100vh - 2.75rem - 2vmax);
+}
+
+header {
+  padding: 1vmax;
+  width: calc(100% - 2vmax);
+}
+
+p,
+#title {
+  margin-block: 0;
+  margin: 0;
+}
+
+#title {
+  color: white;
+  text-shadow: black -1px -1px, black -1px 1px, black 1px -1px, black 1px 1px, red 0px -4px, orange 0px -6px, yellow 0px -8px, green 0px -10px, turquoise 0px -12px, blue 0px -14px, purple 0px -16px;
+}
+
+#canvas {
+  width: 100%;
+  height: 100%;
+}
