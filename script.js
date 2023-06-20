@@ -264,7 +264,7 @@ window.onload = () => {
   }
   const score = document.getElementById("score");
 
-  canvas.addEventListener("mousemove", mousePress);
+  canvas.addEventListener("pointermove", mousePress);
   function mousePress(event) {
     // do not register move if the game is not on.
     if (!canvas || !isPlaying) return;
