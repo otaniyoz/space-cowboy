@@ -11,4 +11,4 @@ may not be suitable for people with photosensitivite epillepsy (or similar thing
 open `index.html` in a browser. the game should start immediately.
 
 ## credits ##
-inspired by the coding train videos on boids and space invaders. also i feel like i should mention craig reynolds and his work on the steering behaviour, which i didn't directly interact with, but still.
+dan shiffman of the coding train [on boids](https://www.youtube.com/watch?v=mhjuuHl6qHM&pp=ygUWY29kaW5nIGNoYWxsZW5nZSBib2lkcw%3D%3D)
