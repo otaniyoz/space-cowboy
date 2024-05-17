@@ -247,7 +247,7 @@ window.onload = () => {
   const pews = [];
   const bangs = [];
   const specks = [];
-  const num_specks = 125;
+  const num_specks = 35;
   const player = new Cowboy();
   for (let i = 0; i < num_specks; i++) {
     const speck = new Speck();
